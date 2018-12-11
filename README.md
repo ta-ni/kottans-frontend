@@ -6,3 +6,9 @@ I have experience with Git but the course "How to use Git and GitHub" from Udaci
 Also I want to share the game that can help to learn git commands:
 
 [git-game](https://github.com/git-game/git-game)
+
+## Task 1. Linux CLI, and HTTP
+
+I got information about HTTP. And I repeated basic CLI commands.
+
+![task-1](./task_linux_cli/1.png)
