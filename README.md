@@ -18,9 +18,17 @@ I got information about HTTP. And I repeated basic CLI commands.
 
 In this lesson I discovered difference between `git fetch` and `git pull`.
 
-![task-1](./task_git_collaboration/1.png)
+![task-2.1](./task_git_collaboration/1.png)
 
 
-![task-1](./task_git_collaboration/2.png)
+![task-2.2](./task_git_collaboration/2.png)
+
+## Task 3. Intro to HTML and CSS
+
+I've finished these courses long ago.
+
+![task-3.1](./task_html_css_intro/1.png)
+
+![task-3.2](./task_html_css_intro/2.png)
 
 
