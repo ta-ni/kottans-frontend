@@ -12,3 +12,15 @@ Also I want to share the game that can help to learn git commands:
 I got information about HTTP. And I repeated basic CLI commands.
 
 ![task-1](./task_linux_cli/1.png)
+
+
+## Task 2. Git Collaboration
+
+In this lesson I discovered difference between `git fetch` and `git pull`.
+
+![task-1](./task_git_collaboration/1.png)
+
+
+![task-1](./task_git_collaboration/2.png)
+
+
